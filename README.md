@@ -30,7 +30,7 @@ Sistema desenvolvido em **Linguagem C** para importação, armazenamento e geren
 ## 👥 Equipe de Desenvolvimento
 Projeto acadêmico desenvolvido em colaboração:
 
-* 🧑‍💻 **Leandro Bitencort** — [Seu GitHub](https://github.com/LeandroHBitencort/LeandroHBitencort.git)
+* 🧑‍💻 **Leandro Bitencort** — [Seu GitHub](https://github.com/LeandroHBitencort)
 * 🤝 **Arnaldo Goulart**
 * 🤝 **Jafe Vinicius**
 * 🤝 **João Victor Haddad**
